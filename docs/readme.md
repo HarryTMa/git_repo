@@ -11,6 +11,7 @@
 （应该是testingTwoTmp）
 《关于我有些commit顺序搞错了的这件事》
 《关于我一直是git commit xxx然后修改跳出来的文件来commit的》
+至于我想吐槽的，就是主分支不用master而用main这一点。
 
 # 总结与思考
 回答导言中的问题：
